@@ -4,7 +4,7 @@
 Creado por Jesús Caballero
 for @uebeats by Github
 */
-    $titulo = 'Epas Ingeniería - Aportando a la Industria Minera desde el 2012';
+    $titulo = 'Epas Ltda. - Aportando a la Industria Minera desde el 2012';
 
     /* ACTIVE MENU SERVICES */
     $active_ing = '';
