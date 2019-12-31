@@ -74,10 +74,10 @@
                                     <h4>Válvulas con Recubrimiento PTFE</h4>
                                     <p class="text-justify">Suministramos todo tipo de válvulas para aplicaciones químicas. Nuestras válvulas tienen las siguientes características:</br>
 
-                                        • Temperatura Fluctuante</br>
-                                        • Diferentes Tipos de Recubrimientos (FEP / PFA / FPA)</br>
-                                        • Recubrimiento Interno a Prueba de Vacío</br>
-                                        • Mínimo Espesor de Recubrimiento de 3mm</p>
+                                        • Temperatura Fluctuante.</br>
+                                        • Diferentes Tipos de Recubrimientos (FEP / PFA / FPA).</br>
+                                        • Recubrimiento Interno a Prueba de Vacío.</br>
+                                        • Mínimo Espesor de Recubrimiento de 3mm.</p>
                                     <!-- <ul class="list-items">
                                     <li><i class="fa fa-arrow-circle-right"></i>Support and Analysis</li>
                                     <li><i class="fa fa-arrow-circle-right"></i>Suggesting Ingredients</li>
@@ -410,12 +410,12 @@
                                 </div><!-- /.img-box -->
                                 <div class="img-box">
                                     <ul class="list-items">
-                                        <li style="list-style: disc;padding-left:0; color: black">Ánodos para el cromado duro y otros procesos electroquímicos</li>
-                                        <li style="list-style: disc;padding-left:0; color: black">Ánodos revestidos de plomo para instalaciones de decapado de acero inoxidable</li>
-                                        <li style="list-style: disc;padding-left:0; color: black">Emplomado homogéneo automatizado de componentes</li>
-                                        <li style="list-style: disc;padding-left:0; color: black">Precipitadores electrostáticos húmedos (WESP)</li>
-                                        <li style="list-style: disc;padding-left:0; color: black">Contenedores de transporte de sustancias peligrosas</li>
-                                        <li style="list-style: disc;padding-left:0; color: black">Partes y piezas menores, como consolas, soportes y electrodos</li>
+                                        <li style="list-style: disc;padding-left:0; color: black">Ánodos para el cromado duro y otros procesos electroquímicos.</li>
+                                        <li style="list-style: disc;padding-left:0; color: black">Ánodos revestidos de plomo para instalaciones de decapado de acero inoxidable.</li>
+                                        <li style="list-style: disc;padding-left:0; color: black">Emplomado homogéneo automatizado de componentes.</li>
+                                        <li style="list-style: disc;padding-left:0; color: black">Precipitadores electrostáticos húmedos (WESP).</li>
+                                        <li style="list-style: disc;padding-left:0; color: black">Contenedores de transporte de sustancias peligrosas.</li>
+                                        <li style="list-style: disc;padding-left:0; color: black">Partes y piezas menores, como consolas, soportes y electrodos.</li>
                                     </ul>
                                 </div>
                             </div><!-- /.feature-list-box -->

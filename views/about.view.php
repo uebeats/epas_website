@@ -34,7 +34,7 @@
 						<img src="assets/img/about-3-1.png" alt="Epas Ltda."/>
 						<div class="content">
 							<span>Nosotros</span>
-							<h3>Epas Limitada <br /></h3>
+							<h3>Epas Ltda. <br /></h3>
 						</div><!-- /.content -->
 					</div><!-- /.about-img-box -->
 				</div><!-- /.col-md-6 -->
@@ -123,7 +123,7 @@
 						</div><!-- /.col-md-6 -->
 						<div class="col-md-6">
 							<div class="content">
-								<h3>Epas</h3>
+								<h3>Epas Ltda.</h3>
 								<p>Se forja los lineamientos para dar curso a la creación de una empresa consolidada a nivel Sudamericano. En el área de Ingeniería en Ventas, Mantención y Asesorías en Plantas Industriales y Mineras a Nivel Nacional e Internacional. </p>
 							</div><!-- /.content -->
 						</div><!-- /.col-md-6 -->

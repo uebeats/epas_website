@@ -62,7 +62,7 @@
 
                                 </div><!-- /.content-box -->
                                 <div class="img-box">
-                                    <img src="assets/imagenes/servicios/serv1b.jpg" alt="Epas Ltda." />
+                                    <img src="assets/imagenes/servicios/serv1b.jpg" alt="Epas Ltda.">
                                 </div><!-- /.img-box -->
                             </div><!-- /.feature-list-box -->
 
@@ -73,7 +73,7 @@
                                         A través del método de corrientes inducidas se pueden inspeccionar casi todos los materiales conductores, con lo cual nos es posible realizar ensayos a intercambiadores de calor y a grietas superficiales de componentes.</p>
                                 </div><!-- /.content-box -->
                                 <div class="img-box " style="margin-top:50px">
-                                    <img src="assets/imagenes/servicios/serv1c.jpg" alt="Epas Ltda." />
+                                    <img src="assets/imagenes/servicios/serv1c.jpg" alt="Epas Ltda.">
                                 </div><!-- /.img-box -->
                             </div><!-- /.feature-list-box -->
 
@@ -81,11 +81,10 @@
                                 <div class="content-box">
                                     <h4>Ensayos a Intercambiadores de Calor</h4>
                                     <p>Mediante el uso de corrientes parásitas nos es posible una evaluación general de las condiciones del tubo en los intercambiadores de calor, predecir la vida útil restante del tubo “medición de espesores” y analizar las causas en eventuales fallas en éstos, permitiéndonos la detección de defectos tales como grietas, erosión, corrosión, ranuras o abolladuras.</p>
-                                    Mediante este método es posible tomar decisiones en tiempo real
-                                    (durante el ensayo) de la estrategia a seguir ya sea en la sustitución del tubo o reparación de éste, ahorrando en gastos por sustitución de tubos e inactividad por paradas de planta debido a fallas imprevistas.</p>
+                                    <p>Mediante este método es posible tomar decisiones en tiempo real (durante el ensayo) de la estrategia a seguir ya sea en la sustitución del tubo o reparación de éste, ahorrando en gastos por sustitución de tubos e inactividad por paradas de planta debido a fallas imprevistas.</p>
                                 </div><!-- /.content-box -->
                                 <div class="img-box" style="margin-top:90px">
-                                    <img src="assets/imagenes/servicios/serv1e.jpg" alt="Epas Ltda." />
+                                    <img src="assets/imagenes/servicios/serv1e.jpg" alt="Epas Ltda.">
                                 </div><!-- /.img-box -->
                             </div><!-- /.feature-list-box -->
 

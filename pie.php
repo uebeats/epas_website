@@ -3,8 +3,8 @@
             <div class="row">
                 <div class="col-md-3 col-sm-6 col-xs-12">
                     <div class="footer-widget about-widget">
-                        <a href="index.php"><img src="assets/img/logo1-1.png" alt="Epas Ingeniería"/></a>
-                        <h3>Epas Limitada</h3>
+                        <a href="index.php"><img src="assets/img/logo1-1.png" alt="Epas Ltda."/></a>
+                        <h3>Epas Ltda.</h3>
                         <p>Contamos con años de experiencia en Ingeniería e Innovación en áreas de ventas de productos y reparación de plantas de ácido sulfúrico.</p>
                     </div><!-- /.footer-widget about-widget -->
                 </div><!-- /.col-md-3 -->
@@ -52,7 +52,7 @@
     </div><!-- /.main-footer -->
     <div class="bottom-footer">
         <div class="container">
-            <div class="left-text pull-left"><p>&copy; <?php echo date('Y')?> Epas Limitada - Todos los derechos reservados.</p></div><!-- /.left-text -->
+            <div class="left-text pull-left"><p>&copy; <?php echo date('Y')?> Epas Ltda. - Todos los derechos reservados.</p></div><!-- /.left-text -->
 			<div class="right-text pull-right"><small>Hecho con <i class="fa fa-heart"></i> por <a href="https://igospel.cl" target="_blank"><img width="80" src="assets/logo-black.png" alt="Igospel.cl"></a></small></div><!-- /.right-text -->
             <div class="right-text pull-right"><p> </p></div><!-- /.right-text -->
         </div><!-- /.container -->

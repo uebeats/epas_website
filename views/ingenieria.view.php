@@ -51,16 +51,16 @@
                                 <img src="assets/imagenes/servicios/serv1G.png" alt="Epas Ltda." >
                             </div><!-- /.img-box -->
                             <h3>Ingeniería y Asesorías</h3>
-                                <p>EPAS LTDA. Cuenta con el personal calificado para desarrollar labores de: Programación, Planes de mantenimiento preventivo y correctivo, Control de mantención general de plantas, Asesorías en control de operatividad de equipos en mantención de plantas.</p>
+                                <p>Epas Ltda. cuenta con el personal calificado para desarrollar labores de: Programación, Planes de mantenimiento preventivo y correctivo, Control de mantención general de plantas, Asesorías en control de operatividad de equipos en mantención de plantas.</p>
                                 <p>Dentro de las asesorías, una de las más importantes es la aplicación de recubrimientos:
 
                                 Lo descrito anteriormente lo podemos separar en:
                                 <br>
 
                                 1.1 Programación y control de avance de actividades en terreno “Desarrollo de
-                                Carta Gantt”<br>
+                                Carta Gantt”.<br>
 
-                                1.2 Control de calidad de superficies donde se aplicará el recubrimiento<br>
+                                1.2 Control de calidad de superficies donde se aplicará el recubrimiento.<br>
 
                                 1.3 Control de aplicación en terreno de las diferentes capas y etapas de aplicación
                                 del recubrimiento.<br><br><br>

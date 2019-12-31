@@ -235,7 +235,7 @@
                 </div><!-- /.col-md-7 -->
                 <div class="col-md-5">
                     <div class="video-box">
-                        <img src="assets/img/about-2-1.jpg" alt="Epas Ingeniería"/>
+                        <img src="assets/img/about-2-1.jpg" alt="Epas Ltda."/>
                         <a href="//www.youtube.com/watch?v=tVwWF-amqV4" class="video-popup"><i class="industrio-icon-play-button hvr-pulse"></i></a>
                     </div><!-- /.video-box -->
                 </div><!-- /.col-md-5 -->
@@ -305,7 +305,7 @@ OHSAS 18001:2007
                 <div class="col-md-3 col-sm-6 col-xs-12 masonary-item single-filter-item reparaciones">
                     <div class="single-portfolio-style-two">
                         <div class="img-box">
-                        <img src="assets/imagenes/proyectos/img1.jpg" alt="Epas - Ingeniería"/>
+                        <img src="assets/imagenes/proyectos/img1.jpg" alt="Epas Ltda."/>
                             <div class="overlay">
                                 <div class="box">
                                     <div class="content">
@@ -321,7 +321,7 @@ OHSAS 18001:2007
                 <div class="col-md-3 col-sm-6 col-xs-12 masonary-item single-filter-item construction trabajos">
                     <div class="single-portfolio-style-two">
                         <div class="img-box">
-                        <img src="assets/imagenes/proyectos/img2.jpg" alt="Epas - Ingeniería"/>
+                        <img src="assets/imagenes/proyectos/img2.jpg" alt="Epas Ltda."/>
                             <div class="overlay">
                                 <div class="box">
                                     <div class="content">

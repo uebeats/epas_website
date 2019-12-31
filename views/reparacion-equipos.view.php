@@ -69,10 +69,13 @@
                             <div class="feature-list-box clearfix">
                                 <div class="content-box">
                                     <h4>Reparación y Venta de Repuestos para Mamposterías Especiales</h4>
-                                    <p>Contamos con alianzas estratégicas para la reparación y venta de sistemas de recubrimiento químico y refractario, por ejemplo: <br>
-                                        • Niveladores de Superficie <br>
-                                        • Sistemas de Resinas<br>
-                                        • Sistemas Compuestos (Niveladores, Resinas, Gomas, Morteros y Ladrillos)</p>
+                                    <p style="margin-bottom:0">Contamos con alianzas estratégicas para la reparación y venta de sistemas de recubrimiento químico y refractario, por ejemplo:
+                                        <ul>
+                                            <li> Niveladores de Superficie.</li>
+                                            <li>Sistemas de Resinas</li>
+                                            <li>Sistemas Compuestos (Niveladores, Resinas, Gomas, Morteros y Ladrillos).</li>
+                                        </ul>
+                                    </p>
                                     <!-- <ul class="list-items">
                                     <li><i class="fa fa-arrow-circle-right"></i>Support and Analysis</li>
                                     <li><i class="fa fa-arrow-circle-right"></i>Suggesting Ingredients</li>
