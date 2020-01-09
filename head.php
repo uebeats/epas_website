@@ -33,7 +33,7 @@ p {
     margin-right: auto;
     width: 90%;
     line-height: 1.2em;
-    text-align: justify;
+    text-align: center;
 }
 
 </style>

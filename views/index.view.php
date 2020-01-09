@@ -43,7 +43,7 @@
                         <div class="box valign-middle">
                             <div class="content text-center">
                                 <h2 data-animation="animated fadeInUp">Servicios e <span>Ingeniería</span> </h2>
-                                <p data-animation="animated fadeInDown">Repuestos de primera línea al mercado de ácido sulfúrico en SudAmérica.</p>
+                                <p data-animation="animated fadeInDown">Repuestos de primera línea al mercado de ácido sulfúrico en Sudamérica.</p>
                                 <a href="#" class="banner-btn hvr-sweep-to-right" data-animation="animated fadeInDown">Ver Más... <i class="fa fa-arrow-right"></i></a>
                             </div>
                         </div>
@@ -277,8 +277,7 @@ OHSAS 18001:2007
                         </div><!-- /.icon-box -->
                         <div class="text-box">
                             <h3>INGENIERÍA Y ASESORÍAS</h3>
-                            <p>INNOVACIÓN TECNOLÓGICA
-</p>
+                            <p>INNOVACIÓN TECNOLÓGICA</p>
                         </div><!-- /.text-box -->
                     </div><!-- /.single-feature-style-one -->
                 </div><!-- /.col-md-4 -->
@@ -289,16 +288,15 @@ OHSAS 18001:2007
         <div class="container">
             <div class="sec-title text-center">
                 <h3>Trabajos Realizados</h3>
-                <p>En nuestra amplia experiencia en el mercado SudAmericano, hemos dejado huella en varios proyectos importantes, que nos enorgullece presentar.</p>
+                <p>En nuestra amplia experiencia en el mercado Sudamericano, hemos dejado huella en varios proyectos importantes, que nos enorgullece presentar.</p>
             </div><!-- /.sec-title -->
             <div class="gallery-filter">
                 <ul class="post-filter masonary text-center">
                     <li class="filter active" data-filter=".masonary-item"><span><i class="industrio-icon-layers"></i>Galería Completa</span></li><!--
                     --><li class="filter " data-filter=".trabajos"><span><i class="industrio-icon-drop-of-liquid"></i>Trabajos</span></li><!--
                     --><li class="filter " data-filter=".reparaciones"><span><i class="industrio-icon-safety"></i>Reparaciones</span></li><!--
-                    --><li class="filter " data-filter=".productos"><span><i class="industrio-icon-atom"></i>Productos</span></li><!--
-                    
---></ul>
+                    --><li class="filter " data-filter=".productos"><span><i class="industrio-icon-atom"></i>Productos</span></li>
+                </ul>
                 <!-- /.post-filter -->
             </div><!-- /.gallery-filter -->
             <div class="row masonary-layout filter-layout" data-filter-class="filter">
