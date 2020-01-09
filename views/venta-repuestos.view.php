@@ -118,7 +118,7 @@
                                 <div class="content-box">
                                     <h4>Juntas de Expansión con fuelle metálico</h4>
                                     <p class="text-justify">Este tipo de junta puede ser fabricada a necesidad del cliente, tanto en materiales, como en sus normas de construcción.
-                                        Se suministran en diámetros que van desde los 25 a 7.000 milímetros.
+                                        Se suministran en diámetros que van desde los 25 a 7.000 mm.
                                         Nuestros productos estándar son Fuelles de Acero inoxidable austenítico (AISI-304,304L, 309, 310, 316, 316L, 316TI, 321, etc.) Tenemos Aleaciones especiales como: 400, 600, 625, 800 y 825, níquel, hastelloy, etc.
                                     </p>
                                     <!-- <ul class="list-items">

@@ -25,5 +25,15 @@
 p {
     text-align: justify;
 }
+.single-service-style-one .back p {
+    font-size: 1.3rem;
+    color: #FFFFFF;
+    margin: 0;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    line-height: 1.2em;
+    text-align: justify;
+}
 
 </style>

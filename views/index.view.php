@@ -199,7 +199,7 @@
                                 <div class="box">
                                     <div class="content">
                                         <h3>Reparación de Hormigones</h3>
-                                        <p>Tecnología y técnicas de recuperación de hormigones asegurando durabilidad estructural.</p>
+                                        <p>Tecnología y técnicas de recuperación de hormigones, asegurando durabilidad estructural.</p>
                                     </div><!-- /.content -->
                                 </div><!-- /.box -->
                             </div><!-- /.overlay -->
@@ -236,7 +236,7 @@
                 <div class="col-md-5">
                     <div class="video-box">
                         <img src="assets/img/about-2-1.jpg" alt="Epas Ltda."/>
-                        <a href="//www.youtube.com/watch?v=tVwWF-amqV4" class="video-popup"><i class="industrio-icon-play-button hvr-pulse"></i></a>
+                        <!-- <a href="//www.youtube.com/watch?v=tVwWF-amqV4" class="video-popup"><i class="industrio-icon-play-button hvr-pulse"></i></a> -->
                     </div><!-- /.video-box -->
                 </div><!-- /.col-md-5 -->
             </div><!-- /.row -->
@@ -289,7 +289,7 @@ OHSAS 18001:2007
         <div class="container">
             <div class="sec-title text-center">
                 <h3>Trabajos Realizados</h3>
-                <p>En nuestra amplia experiencia en el mercado Sud Americano, hemos dejado huella en varios proyectos importantes, que nos enorgullece presentar.</p>
+                <p>En nuestra amplia experiencia en el mercado SudAmericano, hemos dejado huella en varios proyectos importantes, que nos enorgullece presentar.</p>
             </div><!-- /.sec-title -->
             <div class="gallery-filter">
                 <ul class="post-filter masonary text-center">
