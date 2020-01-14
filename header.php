@@ -10,10 +10,6 @@
                 <a href="#" class="fab fa-twitter"></a>
                 <a href="#" class="fab fa-google-plus-g"></a>
                 <a href="#" class="fab fa-linkedin-in"></a>
-                <a href="http://free-website-translation.com/?es" id="ftwtranslation_button" hreflang="es" title="" style="border:0;">
-                    <img src="http://free-website-translation.com/img/fwt_button_en.gif" id="ftwtranslation_image" alt="Herramienta de traducciÃ³n gratuita de pÃ¡ginas web" style="border:0;"/>
-                </a>
-<script type="text/javascript" src="http://free-website-translation.com/scripts/fwt.js" /></script>
             </div><!-- /.pull-right -->
         </div><!-- /.container -->
     </div><!-- /.top-info -->
