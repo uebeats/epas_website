@@ -20,10 +20,10 @@
         //Server settings
         $mail->SMTPDebug = SMTP::DEBUG_SERVER;                      // Enable verbose debug output
         $mail->isSMTP();                                            // Send using SMTP
-        $mail->Host       = 'smtp.gmail.com';                    	// Set the SMTP server to send through
+        $mail->Host       = 'mail.epas.cl';                    	// Set the SMTP server to send through
         $mail->SMTPAuth   = true;                                   // Enable SMTP authentication
-        $mail->Username   = 'plataforma@propiedadesdng.com';        // SMTP username
-        $mail->Password   = 'americ01';                             // SMTP password
+        $mail->Username   = 'soporte@epas.cl';        // SMTP username
+        $mail->Password   = 'igospel2019';                             // SMTP password
         $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;         // Enable TLS encryption; `PHPMailer::ENCRYPTION_SMTPS` also accepted
         $mail->CharSet    = 'UTF-8';                                // Activa la condificacción utf-8
         $mail->Port       = 587;                                    // TCP port to connect to
@@ -39,11 +39,11 @@
         $mensajeTo = $_POST['mensaje'];
 
         //Recipients
-        $mail->setFrom('plataforma@propiedadesdng.com', 'EPAS LIMITADA | CONTACTO');
+        $mail->setFrom('plataforma@epas.cl', 'EPAS LIMITADA | CONTACTO');
         $mail->addAddress($emailTo, $nameTo);                       // Add a recipient
-        $mail->addReplyTo('diseno3@igospel.cl', 'EPAS LIMITADA | CONTACTO');
+        $mail->addReplyTo('plataforma@epas.cl', 'EPAS LIMITADA | CONTACTO');
 
-        $mail->addCC('diseno3@igospel.cl');
+        $mail->addCC('soporte@epas.cl');
         // $mail->addBCC('bcc@example.com');
 
         // Attachments
