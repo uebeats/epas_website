@@ -6,10 +6,18 @@
             </div><!-- /.pull-left -->
             <div class="pull-right social">
                 <!-- /.icon-box <a href="#" img class="industrio-icon-envelope"></i> Inglés</a> -->
-                <a href="#" class="fab fa-facebook-f"></a>
-                <a href="#" class="fab fa-twitter"></a>
-                <a href="#" class="fab fa-google-plus-g"></a>
-                <a href="#" class="fab fa-linkedin-in"></a>
+                <a id="google_translate_element"> <p style="float:left; font-size:.9em; margin:2px 10px;">Cambiar Idioma:</p></a>
+                    <script type="text/javascript">
+                        function googleTranslateElementInit() {
+                            new google.translate.TranslateElement({
+                                pageLanguage: 'es',
+                                layout: google.translate.TranslateElement.InlineLayout.SIMPLE,
+                                autoDisplay: false
+                            }, 'google_translate_element');
+                        }
+                    </script>
+                    <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+                </nav>
             </div><!-- /.pull-right -->
         </div><!-- /.container -->
     </div><!-- /.top-info -->
