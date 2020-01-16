@@ -7,7 +7,7 @@
         width: 100%;
         height: 100%;
         z-index: 9999;
-        background: url('https://www.mktv.mx/wp-content/uploads/2017/07/letter_sending.gif') 50% 50% no-repeat rgb(253,253,253);
+        background: url('https://www.mktv.mx/wp-content/uploads/2017/07/letter_sending.gif') 50% 50% no-repeat rgb(253, 253, 253);
         opacity: .8;
     }
 </style>
@@ -29,37 +29,38 @@
 
 <!-- script para envio de form -->
 <script>
-
-    var contactForm = function () {
+    var contactForm = function() {
         $("#contactForm").submit(function(e) {
             e.preventDefault();
             var datos = $(this).serialize();
-                $('.load-email').show();
+            $('.load-email').show();
             $.ajax({
                 type: "POST",
                 url: "php/envioForm.php",
                 data: datos,
-                success: function (data) {
-                    $('.load-email').hide();
-                    swal({
-                        title: "Buen Trabajo!",
-                        text: "El mensaje ha sido enviado satisfactoriamente.",
-                        icon: "success",
-                        button: "Ok",
-                    });
-                    $('#contactForm')[0].reset();
-                    },
-                }).fail(function (data){
-                    $('.load-email').hide();
-                    swal({
-                        title: "Algo salio mal!",
-                        text: "Intentalo nuevamente, no puedes incluir campos vacios, ni caracteres extraños.",
-                        icon: "error",
-                        button: "Cerrar",
-                    });
-                })
-   
+                success: function(data) {
+                    if (datos == 'ok') {
+                        $('.load-email').hide();
+                        swal({
+                            title: "Buen Trabajo!",
+                            text: "El mensaje ha sido enviado satisfactoriamente.",
+                            icon: "success",
+                            button: "Ok",
+                        });
+                        $('#contactForm')[0].reset();
+                    }else if (data == 'off') {
+                        swal({
+                          title: "Algo salio mal!",
+                          text: "Un campo esta vacío, recuerda registrar todos los datos.",
+                          icon: "error",
+                          button: "Cerrar",
+                        });
+                    } else {
+                        console.log(data);
+                    }
+                },
             });
-    }
 
+        });
+    }
 </script>
