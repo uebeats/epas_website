@@ -2,9 +2,9 @@
 if (isset($_POST['email'])) {
 
 	// Debes editar las próximas dos líneas de código de acuerdo con tus preferencias
-	$email_to = "diseno3@igospel.cl";
+	$email_to = 'contacto@epas.cl';
 	$email_from = 'contacto@epas.cl';
-	$email_subject = "Contacto desde el sitio web";
+	$email_subject = 'Contacto desde el sitio web';
 
 	// Aquí se deberían validar los datos ingresados por el usuario
 	if (
@@ -14,8 +14,8 @@ if (isset($_POST['email'])) {
 		!isset($_POST['mensaje'])
 	) {
 
-		echo "<b>Ocurrió un error y el formulario no ha sido enviado. </b><br />";
-		echo "Por favor, vuelva atrás y verifique la información ingresada<br />";
+		echo '<b>Ocurrió un error y el formulario no ha sido enviado. </b><br />';
+		echo 'Por favor, vuelva atrás y verifique la información ingresada<br />';
 		die();
 	}
 

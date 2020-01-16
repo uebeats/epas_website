@@ -45,29 +45,16 @@
                 </div><!-- /.sec-title text-center -->
                 <div class="row">
                     <div class="col-md-6">
-
-
-
-
                         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4627.2573847228305!2d-70.69622731386814!3d-32.83693701059435!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzLCsDUwJzEzLjciUyA3MMKwNDEnMzcuMCJX!5e0!3m2!1ses!2scl!4v1572355781211!5m2!1ses!2scl" width="560" height="495" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
-
-
-
-
-
-
-
-
                     </div><!-- /.col-md-6 -->
                     <div class="col-md-6">
-                        <form action="#" class="contact-form">
-                            <!-- inc/sendemail.php -->
-                            <h3>Formulario de Contacto</h3>
-                            <input type="text" placeholder="Nombre.." name="name" />
-                            <input type="text" placeholder="Email.." name="email" />
-                            <input type="text" placeholder="Motivo.." name="subject" />
-                            <textarea placeholder="Mensaje..." name="message"></textarea>
-                            <button type="submit" class="hvr-sweep-to-right">Enviar</button>
+                        <form id="contactForm" class="contact-form">
+                        <h3>Formulario de Contacto</h3>
+                            <input type="text" name="name" placeholder="Nombre" required>
+                            <input type="email" name="email" placeholder="Email" required>
+                            <input type="text" name="fono" placeholder="Fono" required>
+                            <textarea name="mensaje" placeholder="Mensaje" required></textarea>
+                            <button onclick="contactForm(1)" type="submit" class="hvr-sweep-to-right">Enviar <i class="fa fa-arrow-right"></i></button>
                         </form>
                     </div><!-- /.col-md-6 -->
                 </div><!-- /.row -->

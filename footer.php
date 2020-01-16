@@ -51,7 +51,7 @@
                     }else if (data == 'off') {
                         swal({
                           title: "Algo salio mal!",
-                          text: "Un campo esta vacío, recuerda registrar todos los datos.",
+                          text: "Revisa todos los campos y vuelve a intentarlo.",
                           icon: "error",
                           button: "Cerrar",
                         });
