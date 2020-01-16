@@ -9,7 +9,7 @@ if (isset($_POST['email'])) {
 	if (
 		!isset($_POST['name']) ||
 		!isset($_POST['email']) ||
-		!isset($_POST['phone']) ||
+		!isset($_POST['fono']) ||
 		!isset($_POST['mensaje'])
 	) {
 
@@ -29,7 +29,7 @@ if (isset($_POST['email'])) {
 	$headers = 'From: ' . $email_from . "\r\n" .
 		'Reply-To: ' . $email_from . "\r\n" .
 		'X-Mailer: PHP/' . phpversion();
-		
+
 	if(mail($email_to, $email_subject, $email_message, $headers)){
 		echo 'ok';
 	}else{
