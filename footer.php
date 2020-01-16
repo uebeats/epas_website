@@ -39,8 +39,8 @@
                 url: "php/envioForm.php",
                 data: datos,
                 success: function(data) {
-                    if (datos == 'ok') {
-                        $('.load-email').hide();
+                    $('.load-email').hide();
+                    if (data == 'ok') {
                         swal({
                             title: "Buen Trabajo!",
                             text: "El mensaje ha sido enviado satisfactoriamente.",
